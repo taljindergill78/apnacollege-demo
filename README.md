@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git Repository.
 <br>
-Author - Taljinder Singh
+Author - Taljinder Singh (Arizona State University)
